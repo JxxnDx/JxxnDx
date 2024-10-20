@@ -1,4 +1,6 @@
-# Hola! Soy Juan David👋
+# Juan David Pallares Pallares 👾
+
+## Acerca de mí
 
 Actualmente estudiando Ingeniería de Sistemas en la Universidad Industrial de Santander
 
