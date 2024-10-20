@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hola! Soy Juan David👋
 
+Actualmente estudiando Ingeniería de Sistemas en la Universidad Industrial de Santander
+
+## Interesado en
+
+Desarrollo de Software - Ciberseguridad - Desarrollo WEB 
+
+## Tecnologías
+
+JavaScript - NodeJS - React - MySQL - Mongo - Express
 <!--
 **JxxnDx/JxxnDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
