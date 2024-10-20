@@ -1,16 +1,21 @@
+![JxxnDx](https://github.com/user-attachments/assets/76c306fb-5590-4eb1-a334-cd91f66752bf)
+
 # 👾 Juan David Pallares Pallares 👾
 
 ## Acerca de mí
-
-Actualmente estudiando Ingeniería de Sistemas en la Universidad Industrial de Santander
+Hola! Tengo 19 años y actualmente estudio Ingeniería de Sistemas en la Universidad Industrial de Santander. 
 
 ## Interesado en
-
-Desarrollo de Software - Ciberseguridad - Desarrollo WEB 
+- Desarrollo de Software
+- Ciberseguridad 
+- Desarrollo WEB 
 
 ## Tecnologías
-
-JavaScript - NodeJS - React - MySQL - Mongo - Express
+- JavaScript 
+- NodeJS 
+- React
+- MySQL
+- Express
 <!--
 **JxxnDx/JxxnDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
