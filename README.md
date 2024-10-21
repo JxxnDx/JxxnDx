@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/76c306fb-5590-4eb1-a334-cd91f66752bf" alt="JxxnDx" width="800"/>
+<img src="https://github.com/user-attachments/assets/76c306fb-5590-4eb1-a334-cd91f66752bf" alt="JxxnDx" width="500"/>
 
 # 👾 Juan David Pallares Pallares 👾
 
