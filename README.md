@@ -18,6 +18,9 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
 - React
 - MySQL
 - Express
+
+
+|-/
 <!--
 **JxxnDx/JxxnDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
