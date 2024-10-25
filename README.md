@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/76c306fb-5590-4eb1-a334-cd91f66752bf" alt="JxxnDx" width="500"/>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/76c306fb-5590-4eb1-a334-cd91f66752bf" alt="JxxnDx" width="500"/>
+</div>
 
 # 👾 Juan David Pallares Pallares 👾
 
@@ -9,8 +11,8 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
 
 ## Interesado en
 - Desarrollo de Software
+- Desarrollo WEB
 - Ciberseguridad 
-- Desarrollo WEB 
 
 ## Tecnologías
 - JavaScript 
