@@ -19,7 +19,6 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
 - NodeJS 
 - React
 - MySQL
-- Express
 
 
 |-/
