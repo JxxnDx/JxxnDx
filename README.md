@@ -5,7 +5,7 @@
 # 👾 Juan David Pallares Pallares 👾
 
 ## Acerca de mí
-Hola! Soy Juan David, tengo 19 años y estudio Ingeniería de Sistemas en la Universidad Industrial de Santander. Me apasionan mucho los temas de informática y el desarrollo, por lo que siempre estoy al pendiente de las nuevas tecnologías y tengo deseo por aprender cada vez más. He trabajado en unos proyectos personales de los cuales algunos se encuentran acá en mi perfil. 
+Hola! Soy Juan David, tengo 19 años y estudio Ingeniería de Sistemas en la Universidad Industrial de Santander. Me apasionan mucho los temas de informática y el desarrollo, por lo que siempre estoy al pendiente de las nuevas tecnologías y tengo deseo por aprender cada vez más. He trabajado en unos proyectos personales de los cuales algunos se encuentran en mi perfil. 
 
 Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme ante cualquier problema o situación que se me presente, resolviendolo de la manera más simple y eficaz. Actualmente estoy trabajando en un proyecto para aprender sobre la librería React y el entorno de NodeJs.
 
@@ -15,7 +15,7 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
 - Ciberseguridad 
 
 ## Tecnologías
-<h4> Lenguajes </h4>
+<h4> Lenguajes - Frameworks </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
