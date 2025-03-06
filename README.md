@@ -7,7 +7,7 @@
 ## Acerca de mí
 Hola! Soy Juan David, tengo 19 años y estudio Ingeniería de Sistemas en la Universidad Industrial de Santander. Me apasionan mucho los temas de informática y el desarrollo, por lo que siempre estoy al pendiente de las nuevas tecnologías y tengo deseo por aprender cada vez más. He trabajado en unos proyectos personales de los cuales algunos se encuentran en mi perfil. 
 
-Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme ante cualquier problema o situación que se me presente, resolviendolo de la manera más simple y eficaz. Actualmente estoy trabajando en un proyecto para aprender sobre la librería React y el entorno de NodeJs.
+Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme ante cualquier problema o situación que se me presente, resolviendolo de la manera más simple y eficaz. Actualmente estoy enfocandome en fortalecer mis conocimientos en React, NodeJs, Express y también SprongBoot.
 
 ## Interesado en
 - Desarrollo de Software
@@ -22,6 +22,7 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src= "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 </span>
 
 <h4> Otras tecnologías </h4>
