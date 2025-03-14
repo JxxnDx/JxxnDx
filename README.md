@@ -12,7 +12,8 @@ Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme an
 ## Interesado en
 - Desarrollo de Software
 - Desarrollo WEB
-- Ciberseguridad 
+- Ciberseguridad
+- Inteligencia Artificial
 
 ## Tecnologías
 <h4> Lenguajes - Frameworks </h4>
