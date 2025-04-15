@@ -7,7 +7,7 @@
 ## Acerca de mí
 Hi! Soy Juan David, tengo 20 años y estudio Ingeniería de Sistemas en la Universidad Industrial de Santander. Me apasionan mucho los temas de informática y el desarrollo, por lo que siempre estoy al pendiente de las nuevas tecnologías y tengo deseo por aprender cada vez más. He trabajado en unos proyectos personales de los cuales algunos se encuentran en mi perfil. 
 
-Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme ante cualquier problema o situación que se me presente, resolviendolo de la manera más simple y eficaz. Actualmente estoy enfocandome en fortalecer mis conocimientos en React, NodeJs, Express y también SpringBoot.
+Mi meta profesional es convertirme en un desarrollador capaz de desenvolverme ante cualquier problema o situación que se me presente, resolviendolo de la manera más simple y eficaz. Actualmente estoy enfocandome en fortalecer mis conocimientos en React, NodeJs, Express y también SpringBoot, trabajando en unos proyectos con estas tecnologías.
 
 ## Interesado en
 - Desarrollo de Software
